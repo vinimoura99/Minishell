@@ -9,10 +9,28 @@
 ---
 
 <div align="center">
-  <h3>Estatísticas de Contribuição</h3>
+  <h3>Contributor Stats</h3>
   
-  [![vinimoura99's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimoura99&show_icons=true&theme=vue&rank_icon=github&hide_rank=true)](https://github.com/vinimoura99)
-  [![jvrs2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvrs2002&show_icons=true&theme=darcula&rank_icon=github&hide_rank=true)](https://github.com/jvrs2002)
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/vinimoura99">
+          <img src="https://github-readme-stats.vercel.app/api?username=vinimoura99&show_icons=true&theme=react&rank_icon=github&hide_rank=true&layout=compact" alt="vinimoura99's GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jvrs2002">
+          <img src="https://github-readme-stats.vercel.app/api?username=jvrs2002&show_icons=true&theme=dark&rank_icon=github&hide_rank=true&layout=compact" alt="jvrs2002's GitHub Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    Co-authored with: 
+    <a href="https://github.com/DanielFonsecaa">DanielFonsecaa</a>, 
+    <a href="https://github.com/NukyYuki">NukyYuki</a>.
+  </p>
 </div>
 
 ---
