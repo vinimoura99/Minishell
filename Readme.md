@@ -74,7 +74,7 @@ The **Mini-Shell** supports the following essential functionalities:
 ### Build
 
 ```sh
-git clone [https://github.com/DanielFonsecaa/Mini-Shell-42.git](https://github.com/vinimoura99)
+git clone [https://github.com/vinimoura99/Mini-Shell-42.git](https://github.com/vinimoura99)
 cd Mini-Shell-42
 make
 ````
