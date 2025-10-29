@@ -15,9 +15,7 @@
 
 <br> | Nota | Informações da Avaliação |
 | :--- | :--- |
-| <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/> | \`3 peers\` \`1 hour\` |
-</div>
-
+| <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/> | `3 peers` `1 hour` |
 </div>
 
 ---
