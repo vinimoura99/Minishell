@@ -13,9 +13,6 @@
 [![Co-author: vinimoura99](https://img.shields.io/badge/Co--author-vinimoura99-blue)](https://github.com/vinimoura99)
 [![Co-author: jvrs2002](https://img.shields.io/badge/Co--author-jvrs2002-pink)](https://github.com/jvrs2002)
 
-| Grade | Evaluation Information |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | \`3 peers\` \`1 hour\` |
 </div>
 
 ---
