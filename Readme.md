@@ -9,13 +9,10 @@
 ---
 
 <div align="center">
-  
-[![Co-author: vinimoura99](https://img.shields.io/badge/Co--author-vinimoura99-blue)](https://github.com/vinimoura99)
-[![Co-author: jvrs2002](https://img.shields.io/badge/Co--author-jvrs2002-pink)](https://github.com/jvrs2002)
-
-<br> | Nota | Informações da Avaliação |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/> | `3 peers` `1 hour` |
+  <h3>Estatísticas de Contribuição</h3>
+  
+  [![vinimoura99's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimoura99&show_icons=true&theme=vue&rank_icon=github&hide_rank=true)](https://github.com/vinimoura99)
+  [![jvrs2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvrs2002&show_icons=true&theme=darcula&rank_icon=github&hide_rank=true)](https://github.com/jvrs2002)
 </div>
 
 ---
