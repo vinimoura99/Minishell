@@ -26,11 +26,6 @@
     </tr>
   </table>
 
-  <p>
-    Co-authored with: 
-    <a href="https://github.com/DanielFonsecaa">DanielFonsecaa</a>, 
-    <a href="https://github.com/NukyYuki">NukyYuki</a>.
-  </p>
 </div>
 
 ---
